@@ -1,1 +1,1 @@
-# qr-code-component
+# FRONTEND MENTOR qr-code-component
